@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# i love my husband miracat <3
+i sometimes code
+not gay or a furry
+find my info at [puurks.com](https://www.puurks.com/)
 <!--
 **Puurks/Puurks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
