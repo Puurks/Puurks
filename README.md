@@ -12,6 +12,8 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
       <img width="12" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+      <img width="12" />
       <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
@@ -27,8 +29,6 @@
       <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
     </div>
   </body>
 </html>
