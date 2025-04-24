@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <body>
+    <div align="center">
+      <img height="200" src="https://placehold.co/200x100"  />
+    </div>
     <h1 align="center">Puurks</h1>
     <h3 align="center">find my info at <a href="https://www.puurks.com/">puurks.com</a>.<br></h3>
     <div align="center">
