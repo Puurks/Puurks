@@ -2,7 +2,7 @@
 <html>
   <body>
     <div align="center">
-      <img height="200" src="https://placehold.co/200x100"  />
+      <img height="200" src="/media/oldLogo.png"/>
     </div>
     <h1 align="center">Puurks</h1>
     <h3 align="center">find my info at <a href="https://www.puurks.com/">puurks.com</a>.<br></h3>
