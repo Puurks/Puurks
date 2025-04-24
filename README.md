@@ -15,11 +15,11 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
       <img width="12" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+      <img width="12" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
     </div>
     <h2 align="left">Software</h2>
     <div align="left">
