@@ -2,8 +2,7 @@
 <html>
   <body>
     <h1>im puurks</h1>
-    <p>i sometimes code</p>  
-    <p>find my info at <a href="https://www.puurks.com/">puurks.com</a>.</p>
+    <p><strong>find my info at <a href="https://www.puurks.com/">puurks.com</a>.</strong></p>
     <h2 align="left">Languages</h2>
     <div align="left">
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
