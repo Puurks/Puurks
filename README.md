@@ -2,9 +2,7 @@
 <html>
   <body>
     <div align="center">
-      <img height="200" src="/media/oldLogo.png"/>
-      <hr>
-      <h3 align="center">find my info at <a href="https://www.puurks.com/">puurks.com</a>.<br></h3>
+      <img src="/media/oldLogo.png"/>
       <hr>
     </div>
     <div align="center">
