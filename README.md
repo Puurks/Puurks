@@ -2,7 +2,7 @@
 <html>
   <body>
     <div align="center">
-      <img height="200" src="/media/oldLogo.png"/>
+      <img src="/media/oldLogo.png"/>
       <hr>
     </div>
     <h2 align="left">Languages</h2>
