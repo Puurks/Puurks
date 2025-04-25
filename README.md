@@ -4,8 +4,6 @@
     <div align="center">
       <img height="200" src="/media/oldLogo.png"/>
       <hr>
-      <h3 align="center">find my info at <a href="https://www.puurks.com/">puurks.com</a>.<br></h3>
-      <hr>
     </div>
     <h2 align="left">Languages</h2>
     <div align="left">
