@@ -18,8 +18,6 @@
       <img src="media/p5Logo.png" height="40" alt="p5.js Logo" title="p5.js" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java Logo"  title="Java"/>
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua Logo" title="Lua" />
     </div>
     <h2 align="left">Software</h2>
     <div align="left">
