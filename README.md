@@ -2,34 +2,34 @@
 <html>
   <body>
     <div align="center">
-      <img src="/media/oldLogo.png"/>
+      <img src="/media/oldLogo.png" alt="Puurks Logo"/>
       <hr>
     </div>
     <h2 align="left">Languages</h2>
     <div align="left">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 Logo"  title="HTML5" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 Logo"  title="CSS3" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="Javascript Logo" title="Javascript" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap Logo" title="Bootstrap" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java Logo"  title="Java"/>
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+      <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua Logo" title="Lua" />
     </div>
     <h2 align="left">Software</h2>
     <div align="left">
-      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Logo"  title="Vercel"/>
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode Logo"  title="VSCode"/>
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+      <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio Logo"  title="Visual Studio"/>
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity Logo" title="Unity" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+      <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine Logo" title="Unreal Engine" />
     </div>
     <!--
     <br>
