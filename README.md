@@ -19,7 +19,7 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java Logo"  title="Java"/>
       <img width="12" />
-      <img src="media/basicLogojava" height="40" alt="BASIC Logo"  title="BASIC"/>
+      <img src="media/basicLogo.png" height="40" alt="BASIC Logo"  title="BASIC"/>
     </div>
     <h2 align="left">Software</h2>
     <div align="left">
