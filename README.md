@@ -31,6 +31,7 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
     </div>
+    <!--
     <br>
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Puurks&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -40,6 +41,7 @@
     <div align="center">
       <img src="https://profile-counter.glitch.me/Puurks/count.svg?"  />
     </div>
+    -->
   </body>
 </html>
 <!--
