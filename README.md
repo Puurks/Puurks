@@ -5,7 +5,7 @@
       <img src="/media/oldLogo.png" alt="Puurks Logo"/>
       <hr>
     </div>
-    <h2 align="left">Languages</h2>
+    <h2 align="left">Languages/Tech Stack</h2>
     <div align="left">
       <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Logo"  title="Vercel"/>
       <img width="12" />
