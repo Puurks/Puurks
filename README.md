@@ -7,6 +7,8 @@
     </div>
     <h2 align="left">Languages</h2>
     <div align="left">
+      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Logo"  title="Vercel"/>
+      <img width="12" />
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 Logo"  title="HTML5" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 Logo"  title="CSS3" />
@@ -23,15 +25,17 @@
     </div>
     <h2 align="left">Software</h2>
     <div align="left">
-      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Logo"  title="Vercel"/>
+      <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode Logo"  title="VSCode"/>
+      <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio Logo"  title="Visual Studio"/>
+      <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity Logo" title="Unity" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine Logo" title="Unreal Engine" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
     </div>
     <!--
     <br>
