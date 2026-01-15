@@ -21,23 +21,23 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java Logo"  title="Java"/>
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua Logo" title="Lua" />
       <img width="12" />
       <img src="media/basicLogo.png" height="40" alt="BASIC Logo"  title="BASIC"/>
     </div>
     <h2 align="left">Software</h2>
     <div align="left">
-      <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+      <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop Logo" title="Photoshop" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+      <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro Logo" title="Premiere Pro" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+      <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender Logo" title="Blender" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code Logo" title="VS Code" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+      <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio Logo" title="Visual Studio" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity Logo" title="Unity" />
     </div>
     <!--
     <br>
