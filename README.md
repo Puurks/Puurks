@@ -21,6 +21,8 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java Logo"  title="Java"/>
       <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+      <img width="12" />
       <img src="media/basicLogo.png" height="40" alt="BASIC Logo"  title="BASIC"/>
     </div>
     <h2 align="left">Software</h2>
